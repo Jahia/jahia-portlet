@@ -3,6 +3,5 @@
 </a>
 
 # Jahia Portlet Administration
-==============================
 
 Portlet administration panel for Jahia 8
